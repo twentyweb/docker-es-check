@@ -1,2 +1,3 @@
-# docker-es-check
-Docker image for es-check tool
+# Docker ES Check
+
+Docker image for [es-check](https://github.com/dollarshaveclub/es-check) tool
